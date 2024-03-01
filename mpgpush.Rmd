@@ -1,0 +1,12 @@
+---
+title: "mpg push"
+author: "Yen Chun Lin"
+date: "2024-02-20"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+head(mpg)
+```
+
